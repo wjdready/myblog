@@ -8,6 +8,10 @@ npm install
 
 # s 开启服务, g 生成, d 发布
 hexo s
+
+# 依赖 pandoc 请保证环境中包含 pandoc
+# 目前 node20, hexo@6.3.0 可正常运行
+# 如无法运行尝试使用旧版工具
 ```
 
 ## 写文章
